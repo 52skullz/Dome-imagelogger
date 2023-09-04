@@ -1,5 +1,3 @@
-Features
-Best image logger (combining image logging script with empyrean)
 
 Undetected
 Secure
